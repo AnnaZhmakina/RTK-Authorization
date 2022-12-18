@@ -4,7 +4,7 @@ long_phone_259 = '+7940441795455071308341276725526894636730263554558274452839701
 
 long_password_259 = 'Cbw1d42ab43dwad251aw3w32bbbdc325c3cadd512a45w4acw1wda423135cw5aw511455w331wdda3baaw22bb314da44a24d11wdww5adw4wwbww2wa4b2c5wcw2aw3251w2ddc24445c3dc41c4c1bd4dbdw44wwd2534wa2wb4c3aw4wcdbw25daw2wdww1dcww4bwa1ca5wa1b4wda4bcwwaba5b21a35wwwwdcb511a1dww115acw4b4w25wd'
 
-phone = '+79130152406'
-email = 'anyitiny.glazki@gmail.com'
+phone = '+79111111111'
+email = 'abcd@gmail.com'
 password = 'Ww1234567'
 lc = '41444'
